@@ -1,6 +1,5 @@
 ---
-title: See, I can change the title!!!
-description: subtitle
+description: try this
 ---
 
 ![MyPicture](thumbnail.png)
